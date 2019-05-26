@@ -4,11 +4,11 @@ human-computer interaction 1 lab project
 > hospital management app - [uclm](https://www.uclm.es/) computer science  
   
 some screenshots running the app  
-login screen
+login screen  
 ![login](screenshots/login.jpg)  
 main menu
 ![menu](screenshots/menu.jpg)  
-schedule window 
+schedule window   
 ![schedule](screenshots/schedule.jpg) 
 patients management
 ![patients](screenshots/patients.jpg) 
