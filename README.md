@@ -5,7 +5,7 @@ human-computer interaction 1 lab project
   
 some screenshots running the app  
 login screen
-![login](screenshots/menu.jpg)  
+![login](screenshots/login.jpg)  
 main menu
 ![menu](screenshots/menu.jpg)  
 schedule window 
